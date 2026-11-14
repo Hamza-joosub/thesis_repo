@@ -1,0 +1,304 @@
+Ticker,Name,Category,W
+GFI,Gold Fields Ltd,Dollar-earning SA,8.373468
+SOL,Sasol Ltd,Dollar-earning SA,6.210582
+IMP,Impala Platinum Holdings Ltd,Dollar-earning SA,4.712058
+ANG,Anglogold Ashanti Plc,Dollar-earning SA,4.357439
+VAL,Valterra Platinum Ltd,Dollar-earning SA,3.97774
+SSW,Sibanye Stillwater Ltd,Dollar-earning SA,2.299822
+HAR,Harmony Gold Mining Co Ltd,Dollar-earning SA,2.236284
+NPH,Northam Platinum Holdings Ltd,Dollar-earning SA,1.434669
+ACL,ArcelorMittal South Africa Ltd,Dollar-earning SA,1.061494
+KIO,Kumba Iron Ore Ltd,Dollar-earning SA,1.022431
+SAP,Sappi Ltd,Dollar-earning SA,0.772842
+EXX,Exxaro Resources Ltd,Dollar-earning SA,0.732533
+PAN,Pan African Resources PLC,Dollar-earning SA,0.628757
+ARI,African Rainbow Minerals Ltd,Dollar-earning SA,0.457309
+TGA,Thungela Resources Ltd,Dollar-earning SA,0.353364
+DRD,DRDGOLD Ltd,Dollar-earning SA,0.261089
+AFE,AECI Ltd,Dollar-earning SA,0.239459
+RBP,Royal Bafokeng Platinum Ltd,Dollar-earning SA,0.202995
+OMN,Omnia Holdings Ltd,Dollar-earning SA,0.176424
+MTA,Metair Investments Ltd,Dollar-earning SA,0.071726
+THA,Tharisa PLC,Dollar-earning SA,0.038597
+MTN,MTN Group Ltd,Domestic,7.174203
+FSR,FirstRand Ltd,Domestic,5.479124
+SBK,Standard Bank Group Ltd,Domestic,4.707731
+CPI,Capitec Limited,Domestic,4.312545
+BID,Bid Corp Ltd,Domestic,2.686655
+ABG,Absa Group Ltd,Domestic,2.320025
+REM,Remgro Ltd,Domestic,2.148311
+SHP,Shoprite Holdings Ltd,Domestic,2.091538
+SLM,Sanlam Ltd,Domestic,2.065898
+NED,Nedbank Group Ltd,Domestic,1.781986
+APN,Aspen Pharmacare Holdings Ltd,Domestic,1.674692
+DSY,Discovery Ltd,Domestic,1.615934
+BVT,Bidvest Group Ltd,Domestic,1.513594
+OMU,Old Mutual Ltd,Domestic,1.419654
+VOD,Vodacom Group Ltd,Domestic,1.283613
+CLS,Clicks Group Ltd,Domestic,1.249511
+WHL,Woolworths Holdings Ltd/South,Domestic,1.113196
+GRT,Growthpoint Properties Ltd,Domestic,1.015842
+TKG,Telkom SA SOC Ltd,Domestic,1.011791
+PPH,Pepkor Holdings Ltd,Domestic,1.009498
+TBS,Tiger Brands Ltd,Domestic,0.920872
+MRP,Mr Price Group Ltd,Domestic,0.886622
+OUT,OUTsurance Group Ltd,Domestic,0.880195
+NTC,Netcare Ltd,Domestic,0.873675
+TRU,Truworths International Ltd,Domestic,0.823384
+RMH,RMB Holdings Ltd,Domestic,0.797717
+RDF,Redefine Properties Ltd,Domestic,0.764453
+MUR,Murray & Roberts Holdings Ltd,Domestic,0.762412
+MDC,Mediclinic International RF Pt,Domestic,0.75926
+AXL,African Phoenix Investments Lt,Domestic,0.753872
+IPL,Imperial Logistics Pty Ltd,Domestic,0.721517
+REI,Reinet Investments SCA,Domestic,0.710917
+MCG,MultiChoice Group,Domestic,0.705968
+PPC,PPC Ltd,Domestic,0.693124
+SPP,SPAR Group Ltd/The,Domestic,0.64997
+MSM,Massmart Holdings Ltd,Domestic,0.63058
+AEG,Aveng Ltd,Domestic,0.62673
+LHC,Life Healthcare Group Holdings,Domestic,0.621717
+MTM,Momentum Group Ltd,Domestic,0.597533
+PSG,PSG Group Ltd,Domestic,0.593158
+TFG,Foschini Group Ltd,Domestic,0.589703
+BAW,Barloworld Ltd,Domestic,0.550616
+NEP,New Europe Property Investment,Domestic,0.542472
+AVI,AVI Ltd,Domestic,0.533856
+RES,Resilient REIT Ltd,Domestic,0.50021
+HYP,Hyprop Investments Ltd,Domestic,0.447995
+NPK,Nampak Ltd,Domestic,0.394313
+BAT,Brait PLC,Domestic,0.390565
+CML,Coronation Fund Managers Ltd,Domestic,0.388702
+FFB,Fortress Real Estate Investmen,Domestic,0.388297
+PIK,Pick n Pay Stores Ltd,Domestic,0.371115
+SHC,Shaftesbury Capital PLC,Domestic,0.3539
+VKE,Vukile Property Fund Ltd,Domestic,0.352964
+NTU,Nutun Ltd,Domestic,0.352829
+DDT,Dimension Data Holdings Ltd/GB,Domestic,0.337549
+PFG,Pioneer Food Group Pty Ltd,Domestic,0.325032
+KST,PSG Financial Services Ltd,Domestic,0.321689
+LBH,Liberty Holdings Ltd,Domestic,0.309734
+CPF,Capital Property Fund Ltd,Domestic,0.308788
+FFA,Fortress Real Estate Investmen,Domestic,0.292805
+SUI,Sun International Ltd/South Af,Domestic,0.279641
+RLO,Reunert Ltd,Domestic,0.275075
+LGL,Liberty Group Ltd,Domestic,0.260647
+ADH,Advtech Ltd,Domestic,0.249445
+IOC,iOCO Ltd,Domestic,0.245936
+DCP,Dis-Chem Pharmacies Ltd,Domestic,0.236825
+TRE,Trencor Ltd,Domestic,0.236057
+AIP,Adcock Ingram Holdings Ltd,Domestic,0.234168
+SNT,Santam Ltd,Domestic,0.225561
+TON,Tongaat Hulett Pvt Ltd,Domestic,0.225521
+MVL,Mvelaphanda Resources Ltd,Domestic,0.224426
+MTH,Motus Holdings Ltd,Domestic,0.219822
+ATT,Attacq Ltd,Domestic,0.212761
+PAP,Pangbourne Properties Ltd,Domestic,0.211933
+JDG,JD Group Ltd/South Africa,Domestic,0.209178
+FPT,Fountainhead Property Trust,Domestic,0.207957
+ASR,Assore Ltd,Domestic,0.201571
+SAC,SA Corporate Real Estate Ltd,Domestic,0.19994
+KAP,KAP Ltd,Domestic,0.198663
+EHS,Evraz Highveld Steel & Vanadiu,Domestic,0.198121
+ROC,Rockcastle Global Real Estate,Domestic,0.196658
+SPG,Super Group Ltd/South Africa,Domestic,0.194984
+GND,Grindrod Ltd,Domestic,0.192767
+EQU,Equites Property Fund Ltd,Domestic,0.189498
+TSG,Tsogo Sun Ltd,Domestic,0.183964
+MTX,Metorex Ltd,Domestic,0.18374
+DTC,DataTec Ltd,Domestic,0.174827
+ILV,Illovo Sugar Pty Ltd,Domestic,0.174548
+DGH,Distell Group Holdings Ltd,Domestic,0.172237
+AEN,Altron Ltd,Domestic,0.171199
+WBC,We Buy Cars Holdings Ltd,Domestic,0.170713
+JSE,JSE Ltd,Domestic,0.16595
+APB,ApexHi Properties Ltd,Domestic,0.165733
+LEW,Lewis Group Ltd,Domestic,0.164489
+BOX,Boxer Retail Ltd,Domestic,0.163197
+ACP,Acucap Properties Ltd,Domestic,0.15645
+WBO,Wilson Bayly Holmes-Ovcon Ltd,Domestic,0.155979
+LTE,Lighthouse Properties plc,Domestic,0.143833
+FTB,Fairvest Ltd,Domestic,0.140446
+FBR,Famous Brands Ltd,Domestic,0.140053
+APA,ApexHi Properties Ltd,Domestic,0.136427
+ARL,Astral Foods Ltd,Domestic,0.135394
+MKR,Montauk Renewables Inc,Domestic,0.13498
+RPL,Brightbay Real Estate Partners,Domestic,0.134919
+HCI,Hosken Consolidated Investment,Domestic,0.134186
+PMR,Premier Group Ltd,Domestic,0.131727
+EMI,Emira Property Fund Ltd,Domestic,0.1288
+AWA,Arrowhead Properties Ltd/Old,Domestic,0.126173
+AFT,Afrimat Ltd,Domestic,0.12411
+RBX,Raubex Group Ltd,Domestic,0.119455
+ZED,Zeder Investments Ltd,Domestic,0.1188
+BTN,Burstone Group Ltd,Domestic,0.113229
+AFX,African Oxygen Ltd,Domestic,0.111335
+GRF,Group Five Ltd/South Africa,Domestic,0.110667
+OCE,Oceana Group Ltd,Domestic,0.110547
+CSB,Cashbuild Ltd,Domestic,0.103905
+BYI,Bytes Technology Group PLC,Domestic,0.100235
+CVH,Capevin Holdings Ltd,Domestic,0.098871
+MPT,Mpact Ltd,Domestic,0.098764
+WEZ,Wesizwe Platinum Ltd,Domestic,0.098593
+DST,Distell Group Ltd,Domestic,0.097771
+CLH,City Lodge Hotels Ltd,Domestic,0.097738
+SIM,Simmer & Jack Mines Pty Ltd,Domestic,0.095798
+SYC,Sycom Property Fund,Domestic,0.095046
+COH,Curro Holdings Ltd,Domestic,0.094794
+UCP,Unicorn Capital Partners Ltd,Domestic,0.09451
+ALT,Allied Technologies Ltd,Domestic,0.094124
+ITE,Italtile Ltd,Domestic,0.094094
+OPA,Optasia Ltd,Domestic,0.091634
+SSS,Stor-Age Property REIT Ltd,Domestic,0.090989
+AFH,Alexander Forbes Group Holding,Domestic,0.090513
+ASC,Ascendis Health Ltd,Domestic,0.090092
+OPT,Optimum Coal Holdings Pty Ltd,Domestic,0.089271
+SSU,Southern Sun Ltd,Domestic,0.089029
+IAP,Irongate Property Fund I,Domestic,0.086532
+EPP,EPP NV,Domestic,0.086321
+BLU,Blu Label Unlimited Group Ltd,Domestic,0.08439
+REB,Rebosis Property Fund Ltd,Domestic,0.082409
+AEL,Altron Ltd,Domestic,0.082227
+CAT,Caxton and CTP Publishers and,Domestic,0.080602
+HDC,Hudaco Industries Ltd,Domestic,0.076711
+RCL,RCL Foods Ltd/South Africa,Domestic,0.075115
+MRF,Merafe Resources Ltd,Domestic,0.074237
+AVU,BlackstarTiso Pty Ltd,Domestic,0.074058
+SSK,Stefanutti Stocks Holdings Ltd,Domestic,0.071211
+PGR,Peregrine Holdings Ltd,Domestic,0.069327
+DLT,Delta Property Fund Ltd,Domestic,0.065682
+AFR,Afgri Ltd,Domestic,0.065187
+APF,Accelerate Property Fund Ltd,Domestic,0.065148
+KRO,Karooooo Ltd,Domestic,0.061703
+IVT,Invicta Holdings Ltd,Domestic,0.060014
+AFP,Alexander Forbes Ltd,Domestic,0.059041
+OCT,Octodec Investments Ltd,Domestic,0.057516
+PIV,Pivotal Fund Ltd/The,Domestic,0.056789
+WGR,Witwatersrand Consolidated Gol,Domestic,0.05662
+CMP,Cipla Medpro South Africa Ltd,Domestic,0.055803
+MKL,Makalani Holdings Ltd,Domestic,0.055242
+AWB,Arrowhead Properties Ltd/Old,Domestic,0.055121
+ADR,Adcorp Holdings Ltd,Domestic,0.055038
+NBC,New Bond Capital Ltd,Domestic,0.054861
+L4L,Long4Life Ltd,Domestic,0.054531
+AXC,ApexHi Properties Ltd,Domestic,0.051918
+AIL,African Rainbow Capital Invest,Domestic,0.051896
+ABT,Ambit Properties Ltd,Domestic,0.05187
+DAW,Distribution and Warehousing N,Domestic,0.050085
+CLR,Clover Industries Ltd,Domestic,0.049396
+SUR,Spur Corp Ltd,Domestic,0.048427
+EXG,eXtract Group Ltd,Domestic,0.048
+MNK,Montauk Holdings Ltd,Domestic,0.047479
+CTK,Cartrack Holdings Pty Ltd,Domestic,0.046374
+AVV,Alviva Holdings Ltd,Domestic,0.044931
+PAM,Palabora Mining Co Ltd,Domestic,0.043959
+PMM,Premium Properties Ltd,Domestic,0.043642
+HPB,Hospitality Property Fund Ltd,Domestic,0.043304
+MDN,Madison Property Fund Managers,Domestic,0.042951
+FWD,Kansai Plascon Africa Ltd,Domestic,0.04288
+BCX,Business Connexion Group Ltd,Domestic,0.041512
+ELE,ElementOne Ltd,Domestic,0.041352
+RFG,RFG Holdings Ltd,Domestic,0.040794
+MIX,MiX Telematics Ltd,Domestic,0.040232
+BSR,Basil Read Holdings Ltd,Domestic,0.039232
+KEH,Keaton Energy Holdings Ltd,Domestic,0.039145
+AHR,Assura Ltd,Domestic,0.039052
+SRI,Supermarket Income Reit PLC,Domestic,0.038451
+KGM,Kagiso Media Ltd,Domestic,0.038339
+ILA,Iliad Africa Ltd,Domestic,0.037865
+CIL,Consolidated Infrastructure Gr,Domestic,0.03773
+LBR,Libstar Holdings Ltd,Domestic,0.037676
+PHP,Primary Health Properties PLC,Domestic,0.037671
+ENV,Enviroserv Holdings Pty Ltd,Domestic,0.037552
+HPA,Hospitality Property Fund Ltd,Domestic,0.037035
+BRN,Brimstone Investment Corp Ltd,Domestic,0.036495
+HLM,Hulamin Ltd,Domestic,0.036321
+TMG,Blackstar Holdings Group Pty L,Domestic,0.034407
+RIN,Redefine Properties Internatio,Domestic,0.033626
+APK,Astrapak Ltd,Domestic,0.033589
+L2D,Liberty Two Degrees Ltd,Domestic,0.032029
+BEL,Bell Equipment Ltd,Domestic,0.031965
+ELI,Ellies Holdings Ltd,Domestic,0.03084
+GML,Gemfields Group Ltd,Domestic,0.030653
+HSP,Holdsport Ltd,Domestic,0.029387
+DIV,Diversified Property Fund Ltd/,Domestic,0.029317
+SCP,Stellar Capital Partners Ltd,Domestic,0.028279
+MVS,Mvelaserve Ltd,Domestic,0.028232
+ART,Argent Industrial Ltd,Domestic,0.02814
+GPL,Grand Parade Investments Ltd,Domestic,0.027359
+ISO,ASP Isotopes Inc,Domestic,0.026714
+BWN,Balwin Properties Ltd,Domestic,0.026649
+PET,Petmin Ltd,Domestic,0.025846
+MLI,Industrials REIT Ltd,Domestic,0.024183
+RAH,Real Africa Holdings Ltd,Domestic,0.023686
+TTO,Trustco Group Holdings Ltd,Domestic,0.023339
+NIV,Niveus Investments Ltd,Domestic,0.022937
+CHP,Choppies Enterprises Ltd,Domestic,0.021674
+LSK,Lesaka Technologies Inc,Domestic,0.021494
+WES,Wesco Investments Ltd,Domestic,0.021321
+MFL,Metrofile Holdings Ltd,Domestic,0.021162
+BDM,Buildmax Ltd,Domestic,0.020787
+DGC,DigiCore Holdings Ltd,Domestic,0.020706
+CGR,Calgro M3 Holdings Ltd,Domestic,0.020284
+IFR,iFour Properties Ltd,Domestic,0.020218
+HWN,Howden Africa Holdings Ltd,Domestic,0.020024
+ACT,AfroCentric Investment Corp Lt,Domestic,0.018655
+CRM,Ceramic Industries Ltd,Domestic,0.018482
+CPP,Collins Property Group Ltd,Domestic,0.017676
+EEL,Efora Energy Ltd,Domestic,0.016357
+AQP,Aquarius Platinum Ltd,Domestic,0.016018
+TRT,Tourism Investment Corp Ltd,Domestic,0.015979
+TEX,Texton Property Fund Ltd,Domestic,0.015976
+SFN,Sasfin Holdings Ltd,Domestic,0.015852
+PHM,Phumelela Gaming & Leisure Ltd,Domestic,0.014981
+SDO,Stadio Holdings Ltd,Domestic,0.014069
+DIB,Dipula Properties Ltd,Domestic,0.013975
+SYA,Siyathenga Property Fund Ltd,Domestic,0.01395
+CLI,Clientele Ltd,Domestic,0.013626
+MCZ,MC Mining Ltd,Domestic,0.012919
+CLE,Clientele Life Assurance Co Lt,Domestic,0.012598
+COM,Comair Ltd,Domestic,0.012289
+CDZ,Cadiz Holdings Ltd,Domestic,0.012078
+AIA,Ascension Properties Ltd,Domestic,0.011688
+YRK,York Timber Holdings Ltd,Domestic,0.011478
+LHG,Litha Healthcare Group Ltd,Domestic,0.011414
+DCT,Datacentrix Holdings Ltd,Domestic,0.011309
+UCS,UCS Eye Investments Ltd,Domestic,0.011292
+NVS,Novus Holdings Ltd,Domestic,0.009325
+CMH,Combined Motor Holdings Ltd,Domestic,0.008986
+CRP,Capital & Regional PLC,Domestic,0.008961
+AIB,Ascension Properties Ltd,Domestic,0.008276
+MML,Metmar Ltd,Domestic,0.007932
+TWP,TWP Holdings Ltd,Domestic,0.007421
+AFO,One Africa Ltd,Domestic,0.005414
+SNV,Santova Ltd,Domestic,0.003096
+NPN,Naspers Ltd,"Domestic listing, offshore assets",19.781747
+CFR,Cie Financiere Richemont SA,Offshore-priced,18.429682
+AGL,Anglo American PLC,Offshore-priced,15.182171
+BHP,BHP Group UK LTD,Offshore-priced,14.82709
+SAB,Abi Sab Group Holding Ltd,Offshore-priced,9.521017
+ANG,Anglogold Ashanti Plc,Offshore-priced,6.787962
+PRX,Prosus NV,Offshore-priced,3.762594
+BTI,British American Tobacco PLC,Offshore-priced,3.630255
+SNH,Steinhoff International Holdin,Offshore-priced,2.720062
+OML,Om Residual UK Ltd,Offshore-priced,2.692269
+MNP,Mondi PLC,Offshore-priced,2.556799
+BHG,BHP Group Ltd,Offshore-priced,1.932221
+ANH,Anheuser-Busch InBev SA/NV,Offshore-priced,1.554855
+GLN,Glencore PLC,Offshore-priced,1.539628
+ITU,Intu Properties PLC,Offshore-priced,1.3961
+NRP,NEPI Rockcastle NV,Offshore-priced,1.257313
+RNI,Reinet Investments SCA,Offshore-priced,1.075346
+INP,Investec PLC,Offshore-priced,0.942562
+MEI,Mediclinic Group Ltd,Offshore-priced,0.718846
+MND,Mondi Ltd,Offshore-priced,0.603517
+INL,Investec Ltd,Offshore-priced,0.581644
+QLT,Quilter PLC,Offshore-priced,0.494986
+LON,Sibanye UK Ltd,Offshore-priced,0.447888
+S32,South32 Ltd,Offshore-priced,0.183997
+NY1,Ninety One Ltd,Offshore-priced,0.159354
+SRE,Sirius Real Estate Ltd,Offshore-priced,0.147483
+N91,Ninety One PLC,Offshore-priced,0.146937
+MSP,MAS P.L.C.,Offshore-priced,0.130302
+TXT,Textainer Group Holdings Ltd,Offshore-priced,0.114794
+HMN,Hammerson PLC,Offshore-priced,0.113878

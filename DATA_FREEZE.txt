@@ -1,0 +1,33 @@
+DATA FREEZE — 2026-09-12 — two panels from Book1.xlsx Sheet1 (Bloomberg weekly PX_LAST). Sheet2 discarded (corrupt dates). Final week 2026-09-11 dropped (three series unpublished).
+
+[1] thesis_data.csv — MAIN PANEL
+1443 rows x 80 cols | 1999-01-15 to 2026-09-04 | 40 base series | no missing values
+sha256: 6c07a84090482c8e5f10ae06280afb794df55ecbbcee654217de8689bf132da9
+Sample starts at the first JALSH observation (1999-01-08; first row dropped after transform). Series kept only if complete from that date.
+Dropped — start after 1999-01-08: JCAPAL Index, ZARONIA Index, REPSOU CDS USD SR 5Y D14 Corp, REPSOU CDS USD SR 2Y D14 Corp, REPSOU CDS USD SR 1Y D14 Corp, WCAUWRLD Index, WCAUSAF Index, M1FMEAFZ Index, SAVIT40 Index, GSAB2YR Index, ALBIAY Index, SAGGBE10 Index, FXJPEMCS Index
+Dropped — mid-sample holes: GSAB10YR Index
+Dropped — empty: USDZAR 1M ATM VOL BVOL Curncy
+
+[2] thesis_data_domestic.csv — DOMESTIC-RISK PANEL
+1237 rows x 86 cols | 2002-12-27 to 2026-09-04 | 43 base series | no missing values
+sha256: c3eee60612fdd8ce5c6687e2335b4973d4cffb81ce5b825bb5b36848c2f120d7
+Sample starts at the first ALBIAY observation (2002-12-20). Adds to the main panel: ALBIAY Index, M1FMEAFZ Index, REPSOU CDS USD SR 5Y D14 Corp.
+REPSOU 5Y CDS forward-filled over 15 missing weeks from its 2000-10-06 start. Dropped: JCAPAL Index, ZARONIA Index, WCAUWRLD Index, WCAUSAF Index, SAVIT40 Index, GSAB2YR Index, SAGGBE10 Index, FXJPEMCS Index, REPSOU CDS USD SR 2Y D14 Corp, REPSOU CDS USD SR 1Y D14 Corp, GSAB10YR Index, USDZAR 1M ATM VOL BVOL Curncy.
+
+TRANSFORMS (both): _Log_Diff = log(x/x.shift(1)) for prices/indices/equities; _Diff = x - x.shift(1) for USGG10YR, VIX, ALBIAY, the 5Y CDS; SARPRT Index RAW only.
+NOTE: FTSE/JSE headline indices adopted the SWIX free float on 18 Mar 2024 — dependent-variable definition change.
+
+
+[3] FINAL MAIN PANEL — 2026-09-13 — thesis_data.csv rebuilt from Book1-1.xlsx (Book1 + MXZA family appended)
+1443 rows x 88 cols | 1999-01-15 to 2026-09-04 | 44 base series | no missing values
+sha256: f0613f96ca578210f07741c2ec4483acf5d51f39341ef889ca78f5a6381424ee
+Adds MSCI South Africa family (MXZA, MXZA0IN, MXZA0CD, MXZA0BK, MXZA0CS, MXZA0FS) as targets — MXZA has NO SWIX methodology break and is the control for the March 2024 natural experiment.
+All previous columns byte-identical to panel [1]. Same rules: JALSH-bounded start, no gaps, first row dropped, final unpublished week dropped.
+
+
+[3] FINAL MAIN PANEL — 2026-09-13 — thesis_data.csv from Book1-1.xlsx Sheet2 (Book1 series + MSCI South Africa family)
+1443 rows x 88 cols | 1999-01-15 to 2026-09-04 | 44 base series | no missing values
+sha256: f0613f96ca578210f07741c2ec4483acf5d51f39341ef889ca78f5a6381424ee
+Adds: MXZA Index, MXZA0IN Index, MXZA0CD Index, MXZA0CS Index. MXZA has NO SWIX methodology break — control for the March 2024 natural experiment.
+Previous panel columns unchanged. Same rules: JALSH-bounded start, no gaps, first row dropped, unpublished final week dropped.
+Dropped late: JCAPAL Index, ZARONIA Index, REPSOU CDS USD SR 5Y D14 Corp, REPSOU CDS USD SR 2Y D14 Corp, REPSOU CDS USD SR 1Y D14 Corp, WCAUWRLD Index, WCAUSAF Index, M1FMEAFZ Index, SAVIT40 Index, GSAB2YR Index, ALBIAY Index, SAGGBE10 Index, FXJPEMCS Index | holed: GSAB10YR Index | empty: USDZAR 1M ATM VOL BVOL Curncy, MXZA0BK Index, MXZA0FS Index

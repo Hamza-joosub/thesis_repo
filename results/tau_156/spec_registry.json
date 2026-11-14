@@ -1,0 +1,253 @@
+{
+  "csv": "data/thesis_data.csv",
+  "sha256": "f0613f96ca578210f07741c2ec4483acf5d51f39341ef889ca78f5a6381424ee",
+  "tau_weeks": 156.0,
+  "tau_years": 3.0,
+  "alpha": "5.6",
+  "start_idx": 250,
+  "alpha_grid_points": 41,
+  "alpha_reselect_every": 4,
+  "first_estimation_date": "2003-10-31",
+  "factors": {
+    "MM": "MXWO0MM Index_Log_Diff",
+    "MAT": "MXWO0MT Index_Log_Diff",
+    "USMM": "S5METL Index_Log_Diff",
+    "USMAT": "S5MATRX Index_Log_Diff",
+    "CS": "MXWO0CS Index_Log_Diff",
+    "CD": "MXWO0CD Index_Log_Diff",
+    "FN": "MXWO0FN Index_Log_Diff",
+    "USFN": "S5FINL Index_Log_Diff",
+    "USCS": "S5CONS Index_Log_Diff",
+    "USCD": "S5COND Index_Log_Diff",
+    "EM": "MXEF Index_Log_Diff",
+    "WLD": "MXWO Index_Log_Diff",
+    "VAL": "MXWO000V Index_Log_Diff",
+    "GRO": "MXWO000G Index_Log_Diff",
+    "QUA": "M1WOQU Index_Log_Diff",
+    "GOLD": "XAU Curncy_Log_Diff",
+    "PLAT": "XPT Curncy_Log_Diff",
+    "PALL": "XPD Curncy_Log_Diff",
+    "CU": "LMCADS03 Comdty_Log_Diff",
+    "OIL": "CL1 Comdty_Log_Diff",
+    "BCOM": "BCOM Index_Log_Diff",
+    "ZAR": "USDZAR Curncy_Log_Diff",
+    "ZARG": "ZAR_glob_Log_Diff",
+    "ZARD": "ZAR_dom_Log_Diff",
+    "DXY": "DXY Curncy_Log_Diff",
+    "VIX": "VIX Index_Diff",
+    "US10": "USGG10YR Index_Diff",
+    "SPX": "SPX Index_Log_Diff",
+    "SX5E": "SX5E Index_Log_Diff",
+    "UKX": "UKX Index_Log_Diff",
+    "CDS": "REPSOU CDS USD SR 5Y D14 Corp_Diff",
+    "ALBIY": "ALBIAY Index_Diff",
+    "EMAF": "M1FMEAFZ Index_Log_Diff"
+  },
+  "targets": {
+    "JALSH": "JALSH Index_Log_Diff",
+    "TOP40": "TOP40 Index_Log_Diff",
+    "RESI20": "RESI20 Index_Log_Diff",
+    "INDI25": "INDI25 Index_Log_Diff",
+    "FINI15": "FINI15 Index_Log_Diff",
+    "JMNNG": "JMNNG Index_Log_Diff",
+    "JGENR": "JGENR Index_Log_Diff",
+    "MXZA": "MXZA Index_Log_Diff",
+    "MXZA_IN": "MXZA0IN Index_Log_Diff",
+    "MXZA_CD": "MXZA0CD Index_Log_Diff",
+    "MXZA_CS": "MXZA0CS Index_Log_Diff"
+  },
+  "curated": {
+    "baseline_mm": [
+      "MM",
+      "EM",
+      "CS",
+      "ZAR"
+    ],
+    "baseline": [
+      "MAT",
+      "EM",
+      "CS",
+      "ZAR"
+    ],
+    "monolithic": [
+      "WLD",
+      "ZAR"
+    ],
+    "em_only": [
+      "EM"
+    ],
+    "em_composite": [
+      "EM",
+      "ZAR"
+    ],
+    "em_ladder_2": [
+      "EM",
+      "ZAR",
+      "MM"
+    ],
+    "split_rand": [
+      "EM",
+      "ZARG",
+      "ZARD",
+      "MM"
+    ],
+    "em_ladder_3": [
+      "EM",
+      "ZAR",
+      "MM",
+      "CS"
+    ],
+    "clean_ladder_2": [
+      "EM",
+      "ZAR",
+      "USMM"
+    ],
+    "clean_ladder_3": [
+      "EM",
+      "ZAR",
+      "USMM",
+      "CS"
+    ],
+    "ladder_1": [
+      "WLD"
+    ],
+    "ladder_2": [
+      "WLD",
+      "MM"
+    ],
+    "ladder_3": [
+      "WLD",
+      "MM",
+      "EM"
+    ],
+    "ladder_4": [
+      "WLD",
+      "MM",
+      "EM",
+      "CS"
+    ],
+    "ladder_5": [
+      "WLD",
+      "MM",
+      "EM",
+      "CS",
+      "ZAR"
+    ],
+    "baseline_clean": [
+      "USMM",
+      "EM",
+      "CS",
+      "ZAR"
+    ],
+    "baseline_clean_mat": [
+      "USMAT",
+      "EM",
+      "CS",
+      "ZAR"
+    ],
+    "baseline_clean_cs": [
+      "USMM",
+      "EM",
+      "USCS",
+      "ZAR"
+    ],
+    "baseline_clean_stap": [
+      "MM",
+      "EM",
+      "USCS",
+      "ZAR"
+    ],
+    "baseline_clean_disc": [
+      "MM",
+      "EM",
+      "USCD",
+      "ZAR"
+    ],
+    "baseline_vix": [
+      "MM",
+      "EM",
+      "CS",
+      "ZAR",
+      "VIX"
+    ],
+    "baseline_rates": [
+      "MM",
+      "EM",
+      "CS",
+      "ZAR",
+      "US10"
+    ],
+    "baseline_fn": [
+      "MM",
+      "EM",
+      "CS",
+      "FN",
+      "ZAR"
+    ],
+    "baseline_gold": [
+      "MM",
+      "EM",
+      "CS",
+      "ZAR",
+      "GOLD"
+    ],
+    "baseline_cu": [
+      "MM",
+      "EM",
+      "CS",
+      "ZAR",
+      "CU"
+    ],
+    "baseline_dxy": [
+      "MM",
+      "EM",
+      "CS",
+      "ZAR",
+      "DXY"
+    ],
+    "style": [
+      "VAL",
+      "GRO",
+      "QUA",
+      "ZAR"
+    ],
+    "commodity": [
+      "GOLD",
+      "PLAT",
+      "CU",
+      "OIL",
+      "ZAR"
+    ],
+    "geographic": [
+      "SPX",
+      "SX5E",
+      "UKX",
+      "EM",
+      "ZAR"
+    ],
+    "econscope": [
+      "WLD",
+      "CU",
+      "GOLD",
+      "PLAT",
+      "OIL",
+      "ZAR",
+      "DXY",
+      "VIX"
+    ]
+  },
+  "pool": [
+    "MM",
+    "USMM",
+    "MAT",
+    "CS",
+    "EM",
+    "WLD",
+    "GOLD",
+    "PLAT",
+    "CU",
+    "OIL",
+    "ZAR",
+    "VIX"
+  ]
+}
