@@ -1,0 +1,17 @@
+# Licensed Bloomberg data (see DATA.md)
+data/
+raw_data.csv
+transformed_data.csv
+bbg_prices_weekly.csv
+top40_monthly_class.csv
+members_classified.csv
+# Drafts, duplicates, scratch
+*.docx
+*.zip
+*.ipynb
+figures/Pasted*
+mat_*.csv
+# System files
+.DS_Store
+__pycache__/
+.vscode/
